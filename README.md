@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Liangsx2020
-- 👀 I’m interested in 
+- 👀 I’m interested in Mathmaticals and computer
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
